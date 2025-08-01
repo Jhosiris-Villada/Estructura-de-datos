@@ -1,2 +1,3 @@
 # Estructura-de-datos
-Tarea
+
+Actividades dejadas en clase, reconocidas por su fecha.
